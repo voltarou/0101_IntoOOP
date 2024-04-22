@@ -5,5 +5,6 @@ class bangunDatar {
 
 private:
 	float panjang, Lebar;
-
+public:
+	float Luas;
 };
